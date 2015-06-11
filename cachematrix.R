@@ -1,5 +1,5 @@
-## This R source files contains 2 functions makeCacheMatrix and cacheSolve. 
-## It use the concept of lexical scoping to create a "special" matrix that can
+## This R source file contains 2 functions makeCacheMatrix and cacheSolve. 
+## It uses the concept of lexical scoping to create a "special" matrix that can
 ## cache its inverse value after the first calculation. 
 
 
